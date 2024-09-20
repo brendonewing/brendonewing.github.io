@@ -1,0 +1,11 @@
+/* Brendon Ewing
+September 19*/
+.alert{
+    background:blue;
+    color:azure;
+    font-weight: bold;
+    padding: 5px;
+}
+.red{
+    background: red;
+}
